@@ -94,7 +94,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GitHubPage" />
     <property name="nodejs_interpreter_path" value="G:/NodeJS/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -166,12 +166,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487973535382</updated>
-      <workItem from="1487973536742" duration="22000" />
+      <workItem from="1487973536742" duration="385000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22000" />
+    <option name="totallyTimeSpent" value="385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="103" y="79" width="1932" height="1092" extended-state="0" />
