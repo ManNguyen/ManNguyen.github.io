@@ -1,15 +1,15 @@
 webpackJsonp([2,4],{
 
-/***/ 345:
+/***/ 389:
 /***/ (function(module, exports, __webpack_require__) {
 
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(604);
+var content = __webpack_require__(660);
 if(typeof content === 'string') content = [[module.i, content, '']];
 // add the styles to the DOM
-var update = __webpack_require__(619)(content, {});
+var update = __webpack_require__(684)(content, {});
 if(content.locals) module.exports = content.locals;
 // Hot Module Replacement
 if(false) {
@@ -27,22 +27,22 @@ if(false) {
 
 /***/ }),
 
-/***/ 604:
+/***/ 660:
 /***/ (function(module, exports, __webpack_require__) {
 
-exports = module.exports = __webpack_require__(605)();
+exports = module.exports = __webpack_require__(661)();
 // imports
 
 
 // module
-exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n", ""]);
+exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\nbody{\n  font-size: 16px;\n}\n@-webkit-keyframes fade-in {\n  from{\n     opacity: 0;\n  }\n  to{\n      opacity: 1;\n  }\n}\n@keyframes fade-in {\n  from{\n     opacity: 0;\n  }\n  to{\n      opacity: 1;\n  }\n}\n", ""]);
 
 // exports
 
 
 /***/ }),
 
-/***/ 605:
+/***/ 661:
 /***/ (function(module, exports) {
 
 /*
@@ -99,7 +99,7 @@ module.exports = function() {
 
 /***/ }),
 
-/***/ 619:
+/***/ 684:
 /***/ (function(module, exports) {
 
 /*
@@ -352,13 +352,13 @@ function updateLink(linkElement, obj) {
 
 /***/ }),
 
-/***/ 623:
+/***/ 688:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(345);
+module.exports = __webpack_require__(389);
 
 
 /***/ })
 
-},[623]);
+},[688]);
 //# sourceMappingURL=styles.bundle.map
