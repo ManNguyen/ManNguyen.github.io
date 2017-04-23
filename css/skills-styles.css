@@ -1,0 +1,310 @@
+body {
+    background: #f9f9f9;
+}
+
+#SkillBox {
+    font-size: 20px;
+    width: 100%;
+    height: auto;
+    margin: 40px auto;
+    background-color: #fff;
+    border: 1px solid #cdcdcd;
+    padding: 10px;
+    -o-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+
+    #SkillBox img {
+        width: 20%;
+        height: 10%;
+        margin: auto 35%;
+        padding: 10px;
+    }
+
+.SkillBar {
+    width: 100%;
+    height: 45px;
+    position: relative;
+    background: rgba(108, 122, 137, 1);
+    margin: 20px auto;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+#Skill-HTML {
+    background-color: #f16529;
+}
+
+#Skill-ASPNet {
+    background-color: #0f71a9;
+}
+
+#Skill-AngularJS {
+    background-color: #e23237;
+}
+
+#Skill-Bootstrap {
+    background-color: #614789;
+}
+
+#Skill-CSS {
+    background-color: #439ed9;
+}
+
+#Skill-jQuery {
+    background-color: #193556;
+}
+
+#Skill-JS {
+    background-color: #f7df1e;
+}
+
+#Skill-Express {
+    background-color: #353535;
+}
+
+#Skill-CSharp {
+    background-color: #68217a;
+}
+
+#Skill-SQL {
+    background-color: #af4a46;
+}
+
+#Skill-NodeJS {
+    background-color: #90c53f;
+}
+
+#Skill-MongoDB {
+    background-color: #499d4a;
+}
+
+.Skill-Expert {
+    width: 100%;
+    -webkit-animation: Animate-Expert 3s;
+    -moz-animation: Animate-Expert 3s;
+    -o-animation: Animate-Expert 3s;
+    animation: Animate-Expert 3s;
+    height: 45px;
+    position: absolute;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+@keyframes Animate-Expert {
+    from {
+        width: 10px;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+
+@-webkit-keyframes Animate-Expert {
+    from {
+        width: 10px;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+
+@-moz-keyframes Animate-Expert {
+    from {
+        width: 10px;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+
+@-o-keyframes Animate-Expert {
+    from {
+        width: 10px;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+
+
+.Skill-Area {
+    z-index: 1;
+    float: left;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-shadow: none;
+    color: #fff;
+    font-family: Lato-Regular, sans-serif;
+    font-size: 18px;
+}
+
+.PercentText {
+    z-index: 3;
+    position: relative;
+    margin-right: 10px;
+    margin-top: 10px;
+    float: right;
+    text-shadow: none;
+    color: #fff;
+    font-family: Lato-Regular, sans-serif;
+    font-size: 18px;
+}
+/* Pure CSS3 jQuery-Like fadeIn
+---------------------------------------------------- */
+.fadeIn {
+    /* CSS needed for animation
+	---------------------------------------------------- */
+    opacity: 0;
+    -webkit-animation: fadeIn ease-in 1;
+    -moz-animation: fadeIn ease-in 1;
+    -o-animation: fadeIn ease-in 1;
+    animation: fadeIn ease-in 1;
+    -webkit-animation-fill-mode: forwards;
+    -moz-animation-fill-mode: forwards;
+    -o-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+/* Animation Times - Time for image to fade in
+---------------------------------------------------- */
+.fadeIn-3s {
+    -webkit-animation-duration: 3s;
+    -moz-animation-duration: 3s;
+    -o-animation-duration: 3s;
+    animation-duration: 3s;
+}
+
+.fadeIn-5s {
+    -webkit-animation-duration: 5s;
+    -moz-animation-duration: 5s;
+    -o-animation-duration: 5s;
+    animation-duration: 5s;
+}
+/* Animation Delay - Time for image to be delayed
+---------------------------------------------------- */
+.fadeIn-Delay-3s {
+    -webkit-animation-delay: 3s;
+    -moz-animation-delay: 3s;
+    -o-animation-delay: 3s;
+    animation-delay: 3s;
+}
+
+.fadeIn-Delay-5s {
+    -webkit-animation-delay: 5s;
+    -moz-animation-delay: 5s;
+    -o-animation-delay: 5s;
+    animation-delay: 5s;
+}
+
+/* Key Frames
+---------------------------------------------------- */
+@-webkit-keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@-o-keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@media only screen and (max-width: 40em) {
+    .responsive-percent {
+        margin-right: -45px !important;
+    }
+}
+
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+    .responsive-percent {
+        margin-right: -45px !important;
+    }
+}
+
+.footer-base {
+    background: #343433;
+    color: #fff;
+    width: 100%;
+    padding: 20px 0 50px 0;
+}
+
+    .footer-base a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+        .footer-base a:hover {
+            color: #7ea4f5;
+        }
+
+
+.mrgn-10-top {
+    margin-top: 10px;
+}
+
+.mrgn-20-top {
+    margin-top: 20px;
+}
+
+.mrgn-30-top {
+    margin-top: 30px;
+}
+
+.mrgn-40-top {
+    margin-top: 40px;
+}
+
+.mrgn-10-bottom {
+    margin-bottom: 10px;
+}
+
+.mrgn-20-bottom {
+    margin-bottom: 20px;
+}
+
+.mrgn-30-bottom {
+    margin-bottom: 30px;
+}
+
+.mrgn-40-bottom {
+    margin-bottom: 40px;
+}
