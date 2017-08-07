@@ -181,7 +181,7 @@ section {
   padding: 100px 0;
 }
 section h2 {
-  margin: 0;
+  margin: 0 0 0.5em 0;
   font-size: 3em;
 }
 section.success {
@@ -308,7 +308,7 @@ footer .footer-col {
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #233140;
+  background-color: #222222;
 }
 .btn-outline {
   color: white;
