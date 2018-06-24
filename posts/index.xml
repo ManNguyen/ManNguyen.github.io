@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in My posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Disciplines of Web Developing</title>
+      <link>http://example.org/posts/disciplines-of-webdev/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/disciplines-of-webdev/</guid>
+      <description>From my experience working on Web, there are four elements of building web: Databases management, Back end services, front end functionality and front end designer. To be a competent developer, one must cover all of those fields; to be a successful developer, on must cover all of those fields and have deep knowledge in one of them.</description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo</title>
+      <link>http://example.org/posts/hello-hugo/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hello-hugo/</guid>
+      <description>Finally, I got myself a personal blog/website using Hugo Framework. It&amp;rsquo;s been a litle bit time consuming to setting up, but oh boy isn&amp;rsquo;t it look nice. I&amp;rsquo;ve always wanted to have a personal blog, but not until recently , I realized that I truly want to have a blog.
+Last year, I made a website for the sole purpose of getting to employer&amp;rsquo;s eyes and it didn&amp;rsquo;t get me far.</description>
+    </item>
+    
+    <item>
+      <title>post1</title>
+      <link>http://example.org/posts/post1/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post1/</guid>
+      <description>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</description>
+    </item>
+    
+    <item>
+      <title>post2</title>
+      <link>http://example.org/posts/post2/</link>
+      <pubDate>Sat, 17 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post2/</guid>
+      <description>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</description>
+    </item>
+    
+  </channel>
+</rss>
