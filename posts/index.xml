@@ -6,10 +6,20 @@
     <description>Recent content in My posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mannguyen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>To Become Lazy</title>
+      <link>https://mannguyen.github.io/posts/tobelazy/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mannguyen.github.io/posts/tobelazy/</guid>
+      <description>There was a story that Bill Gates personally prefer lazy people for important jobs in Microsoft because they can give briliant solutions. As humorious as it is, I feel that it&amp;rsquo;s kinda right in a sense that lazy is hard to get into habit.
+In any kind of work, make it a habit is one way to improve productivity because it reduce the thining part that</description>
+    </item>
     
     <item>
       <title>Disciplines of Web Developing</title>
@@ -50,13 +60,11 @@ Last year, I made a website for the sole purpose of getting to employer&amp;rsqu
     
     <item>
       <title></title>
-      <link>https://mannguyen.github.io/posts/tobelazy/</link>
+      <link>https://mannguyen.github.io/posts/post3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mannguyen.github.io/posts/tobelazy/</guid>
-      <description>+++ type = &amp;ldquo;posts&amp;rdquo; title = &amp;ldquo;To Become Lazy&amp;rdquo; description = &amp;ldquo;MM - To Become Lazy&amp;rdquo; date = &amp;ldquo;2018-06-26&amp;rdquo; +++
-There was a story that Bill Gates personally prefer lazy people for important jobs in Microsoft because they can give briliant solutions. As humorious as it is, I feel that it&amp;rsquo;s kinda right in a sense that lazy is hard to get into habit.
-In any kind of work, make it a habit is one way to improve productivity because it reduce the thining part that</description>
+      <guid>https://mannguyen.github.io/posts/post3/</guid>
+      <description>test</description>
     </item>
     
   </channel>

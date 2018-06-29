@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mannguyen.github.io/posts/tobelazy/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mannguyen.github.io/posts/disciplines-of-webdev/</loc>
     <lastmod>2018-05-15T00:00:00+00:00</lastmod>
   </url>
@@ -23,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://mannguyen.github.io/posts/tobelazy/</loc>
+    <loc>https://mannguyen.github.io/posts/post3/</loc>
   </url>
   
   <url>
@@ -37,12 +42,12 @@
   
   <url>
     <loc>https://mannguyen.github.io/</loc>
-    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mannguyen.github.io/posts/</loc>
-    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
