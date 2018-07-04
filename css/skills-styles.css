@@ -140,7 +140,7 @@
     margin-top: 10px;
     text-shadow: none;
     color: #3d4449;
-    font-family: Lato-Regular, sans-serif;
+    /* font-family: Lato-Regular, sans-serif; */
     font-size: 16px;
     font-weight: bold;
     transform: translateY(-32px);
@@ -154,7 +154,7 @@
     float: right;
     text-shadow: none;
     color: #fff;
-    font-family: Lato-Regular, sans-serif;
+    /* font-family: Lato-Regular, sans-serif; */
     font-size: 18px;
 }
 /* Pure CSS3 jQuery-Like fadeIn

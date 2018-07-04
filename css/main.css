@@ -56,7 +56,11 @@
 	}
 
 /* Grid */
-
+	.post-contain{
+		max-width: 1024px;
+		margin: auto;
+		text-align: justify
+	}
 	.row {
 		border-bottom: solid 1px transparent;
 		-moz-box-sizing: border-box;
@@ -2071,7 +2075,7 @@
 	body, input, select, textarea {
 		color: #3b3f43;
 		font-family: "Open Sans", sans-serif;
-		font-size: 13pt;
+		font-size: 15pt;
 		font-weight: 400;
 		line-height: 1.65;
 	}
@@ -2079,7 +2083,7 @@
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 13pt;
 			}
 
 		}
@@ -2087,7 +2091,7 @@
 		@media screen and (max-width: 1280px) {
 
 			body, input, select, textarea {
-				font-size: 10pt;
+				font-size: 11pt;
 			}
 
 		}
@@ -2284,7 +2288,7 @@
 	header.major > :last-child {
 		border-bottom: solid 3px #f56a6a;
 		display: inline-block;
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 		padding: 0 0.75em 0.5em 0;
 	}
 
@@ -3490,7 +3494,7 @@
 		}
 
 			#main > .inner > section {
-				padding: 6em 0 4em 0 ;
+				padding: 4em 0 4em 0 ;
 				border-top: solid 2px rgba(210, 215, 217, 0.75);
 			}
 
@@ -3517,7 +3521,7 @@
 			}
 
 				#main > .inner > section {
-					padding: 4em 0 2em 0 ;
+					padding: 2em 0 2em 0 ;
 				}
 
 		}
@@ -3529,7 +3533,7 @@
 			}
 
 				#main > .inner > section {
-					padding: 3em 0 1em 0 ;
+					padding: 1em 0 1em 0 ;
 				}
 
 		}
@@ -3809,7 +3813,7 @@
 			border-bottom: 0;
 			color: inherit;
 			font-family: "Roboto Slab", serif;
-			font-size: 1.125em;
+			font-size: 1.5em;
 		}
 
 		#header .icons {
