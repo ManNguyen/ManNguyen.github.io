@@ -50,32 +50,5 @@ In any kind of work, &amp;ldquo;make it a habit&amp;rdquo; is one way to improve
 Last year, I made a website for the sole purpose of getting to the employer&amp;rsquo;s eyes and it didn&amp;rsquo;t get me far.</description>
     </item>
     
-    <item>
-      <title>post1</title>
-      <link>https://mannguyen.github.io/posts/post1/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mannguyen.github.io/posts/post1/</guid>
-      <description>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</description>
-    </item>
-    
-    <item>
-      <title>post2</title>
-      <link>https://mannguyen.github.io/posts/post2/</link>
-      <pubDate>Sat, 17 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://mannguyen.github.io/posts/post2/</guid>
-      <description>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://mannguyen.github.io/posts/post3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mannguyen.github.io/posts/post3/</guid>
-      <description>test</description>
-    </item>
-    
   </channel>
 </rss>
