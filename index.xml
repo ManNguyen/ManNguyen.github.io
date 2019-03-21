@@ -6,10 +6,20 @@
     <description>Recent content in Home on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mannguyen.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Levenshtein Distance</title>
+      <link>https://mannguyen.github.io/posts/levenshteindistance/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mannguyen.github.io/posts/levenshteindistance/</guid>
+      <description>In one of my project, I had to make a matching solution for customers in 2 different, unconnected tables. At the beginning, I did the string comparison on customer names, but the plan failed before it even started. People make mistake, and one typo will render the string comparison useless.
+The next best thing that I could think of (and actually implemented) is using Levenshtein Distance to calculate the similarity and suggest the best match.</description>
+    </item>
     
     <item>
       <title>To Become Lazy</title>
