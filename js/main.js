@@ -92,7 +92,7 @@
 						$sidebar.addClass('inactive');
 					})
 					.on('-large !large', function() {
-						$sidebar.removeClass('inactive');
+						// $sidebar.removeClass('inactive');
 					});
 
 			// Hack: Workaround for Chrome/Android scrollbar position bug.
